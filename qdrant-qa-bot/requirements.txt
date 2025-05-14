@@ -1,0 +1,10 @@
+qdrant-client
+sentence-transformers
+gpt4all
+requests
+markdown
+beautifulsoup4
+python-telegram-bot
+fastapi
+uvicorn
+pydantic
